@@ -2,7 +2,7 @@
 
 Hello,
 
-I am shovon. I am skilled in HTML, CSS, Javascript.
+I am shovon. I am skilled in HTML, CSS and Javascript.
 
 Thanks.
 
