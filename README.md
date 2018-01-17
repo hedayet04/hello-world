@@ -1,2 +1,9 @@
 # hello-world
-Just another repository
+
+Hello,
+
+I am shovon. I am skilled in HTML, CSS and Javascript.
+
+Thanks.
+
+
